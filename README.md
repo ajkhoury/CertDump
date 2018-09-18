@@ -1,6 +1,7 @@
 # CertDump
 
 Small utility to dump certificate information from a Portable Executable file. 
-
-  Usage:
+```
+Usage:
      CertDump.exe PATH
+```
